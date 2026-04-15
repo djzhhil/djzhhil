@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm yao 👋</h1>
+<h1 align="center">Hi, I'm Arise 👋</h1>
 
 <p align="center">
   一名独立开发者 | Java / Spring Boot / Vue | 喜欢做一些能落地的工具
@@ -77,9 +77,9 @@
 
 ## 📫 Contact
 
-- Email: your_email@example.com
+- Email: zguangqi52@gmail.com
 - WeChat: 可私聊获取
-- Blog: https://your-site.com
+- Blog: https://arise.scserver.store
 
 ---
 
